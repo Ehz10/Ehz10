@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ehz10
-- 🌱 I’m currently learning Python
+- Hi, I’m @Ehz10
+- I’m currently learning Python, and Django
 
 <!---
 Ehz10/Ehz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
